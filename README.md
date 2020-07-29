@@ -70,7 +70,7 @@ npm start
 ```
 
 ## Contributing
-This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH).
+This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH). Logo was provided by Labenu's staff.
 
 <p align="center">
 <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
