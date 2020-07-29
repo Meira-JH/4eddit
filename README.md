@@ -30,7 +30,10 @@ A front-end project for an imaginary social network called 4eddit.
 
 ### Página de login
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c10d6996-4e20-45e8-a4aa-c1d7e4710fea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c10d6996-4e20-45e8-a4aa-c1d7e4710fea/Untitled.png)
+
+<p align="center">
+<img height="500px" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c10d6996-4e20-45e8-a4aa-c1d7e4710fea/Untitled.png"/>
+</p>
 
 A página de login possui dois campos de texto: email e senha. O comportamento será o mesmo da página de login feita semana passada. Ao fazer o login, o usuário deverá ser redirecionado para a página de feed.
 
@@ -38,13 +41,17 @@ A página possui também um botão "Cadastrar", que leva o usuário para a pági
 
 ### Página de cadastro
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74892eaa-2276-42fc-8a0d-7ad3295f413c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74892eaa-2276-42fc-8a0d-7ad3295f413c/Untitled.png)
+<p align="center">
+<img height="500px" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74892eaa-2276-42fc-8a0d-7ad3295f413c/Untitled.png"/>
+</p>
 
 A página de cadastro possui 3 campos: nome de usuário, email e senha. O endpoint de cadastro retornará as mesmas informações do endpoint de login. Portanto, após cadastrar, o usuário deverá ser redirecionado para a página de feed, já estando logado (ou seja, com o token salvo no LocalStorage).
 
 ### Página de feed (lista de posts)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae9a5889-1b48-4fc2-a9ca-bd32b632eab8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae9a5889-1b48-4fc2-a9ca-bd32b632eab8/Untitled.png)
+<p align="center">
+<img height="500px" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae9a5889-1b48-4fc2-a9ca-bd32b632eab8/Untitled.png"/>
+</p>
 
 A página de feed deverá mostrar todos os posts, além de um formulário para a criação de post. O formulário possui apenas o campo de texto. Cada post mostrará o nome de usuário que postou, o texto do post, o número de votos (positivo ou negativo) e o número de comentários. Caso o usuário tenha votado positiva ou negativamente, isso deverá estar indicado. Todas essa informações serão fornecidas pela API.
 
@@ -56,7 +63,9 @@ Essa página só pode ser acessada por um usuário logado. Caso o usuário não 
 
 ### Página de post
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38b78c1b-6bb4-4fb7-844b-991ed9f199da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38b78c1b-6bb4-4fb7-844b-991ed9f199da/Untitled.png)
+<p align="center">
+<img height="500px" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38b78c1b-6bb4-4fb7-844b-991ed9f199da/Untitled.png"/>
+</p>
 
 A página de um post mostrará o mesmo card de post da página de feed, com o usuário, texto, curtidas e número de comentários. Abaixo, terá um formulário para criação de comentários e os cards de comentários. A estrutura é muito similar à do post, mas comentários não possuem outros comentários dentro deles. A lógica de votos é a mesma do post.
 
