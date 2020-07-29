@@ -73,9 +73,13 @@ npm start
 
 ## Code architecture
 This code was designed to best fit the use of react-redux connected-router tools/libs. In order to do that, the source folder was diveded in actions, components, containers, reducers and layout folders (img and style).
+
 :small_blue_diamond: **actions**: folder containing all the files with functions for communicating the application with the Redux Store;
+
 :small_blue_diamond: **components**: folder containing react components that are not connected through connected-router routes;
+
 :small_blue_diamond: **containers**: folder containing React components connected with connected-router routes;
+
 :small_blue_diamond: **reducers**: folder containing the configuration, logic and structure of filed that compose Redux Store.
 
 ## Contributing
