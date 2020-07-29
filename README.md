@@ -9,7 +9,7 @@ A social network.
 4eddit is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH).
 
 
-## Tools and technologies
+## Tools and technologies :wrench:
 
 ![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
@@ -20,8 +20,8 @@ A social network.
 ![Dev tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png) 
 
 ![Layout tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
-
-## The app
+ 
+## The app  :iphone:
 
 [Deploy]()
 
@@ -53,7 +53,7 @@ A social network.
 <img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_feed(iPad).png"/>
 </p>
 
-## Running the app
+## Running the app :running:
 
 On your terminal, type:
 
@@ -71,8 +71,9 @@ Execute the application:
 npm start 
 ```
 
-## Code architecture
-This code was designed to best fit the use of react-redux connected-router tools/libs. In order to do that, the source folder was divided in actions, components, containers, reducers and layout folders (img and style).
+## Code architecture :computer:
+
+This code was designed concerned with JS best practices to best fit the use of react-redux connected-router tools/libs. In order to do that, the source folder was divided in actions, components, containers, reducers and layout folders (img and style).
 
 :small_blue_diamond: **actions**: folder containing all the files with functions for communicating the application with the Redux Store;
 
@@ -82,12 +83,12 @@ This code was designed to best fit the use of react-redux connected-router tools
 
 :small_blue_diamond: **reducers**: folder containing configuration, logic and structure of files that compose Redux Store.
 
-## Contributing
+## Contributing :nerd_face:
 This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH). Logo was provided by Labenu's staff.
 
 <p align="center">
 <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
 </p>
 
-## License
+## License :page_facing_up:
 [MIT License](https://choosealicense.com/licenses/mit/)
