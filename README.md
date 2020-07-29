@@ -64,7 +64,7 @@ Essa página só pode ser acessada por um usuário logado. Caso o usuário não 
 ### Página de post
 
 <p align="center">
-<img height="500px" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38b78c1b-6bb4-4fb7-844b-991ed9f199da/Untitled.png"/>
+<img height="500px" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38b78c1b-6bb4-4fb7-844b-991ed9f199da/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200729%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200729T152910Z&X-Amz-Expires=86400&X-Amz-Signature=3d896d6c137b0d6440e31200748053ea04382faa36142d130d7b66905f2e23cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22"/>
 </p>
 
 A página de um post mostrará o mesmo card de post da página de feed, com o usuário, texto, curtidas e número de comentários. Abaixo, terá um formulário para criação de comentários e os cards de comentários. A estrutura é muito similar à do post, mas comentários não possuem outros comentários dentro deles. A lógica de votos é a mesma do post.
