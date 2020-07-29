@@ -1,6 +1,3 @@
-# 
-A front-end project for an imaginary social network called 4eddit.
-
 
 # 4eddit
 <p align="center">
