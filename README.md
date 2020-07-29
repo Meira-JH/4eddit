@@ -1,5 +1,5 @@
 
-# 4eddit
+# 4eddit :fire:
 A social network.
 
 <p align="center">
