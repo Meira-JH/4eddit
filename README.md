@@ -1,5 +1,7 @@
 
 # 4eddit
+A social network.
+
 <p align="center">
 <img src="https://github.com/Meira-JH/4eddit/blob/master/src/img/logo.png"/>
 </p>
