@@ -6,7 +6,7 @@ A social network.
 <img src="https://github.com/Meira-JH/4eddit/blob/master/src/img/logo.png"/>
 </p>
 
-4eddit is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH).
+4eddit is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. It consistis in a social network where engagement happen through text posts, comments and likes/deslikes. This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH).
 
 
 ## Tools and technologies :wrench:
