@@ -45,6 +45,8 @@ A social network.
 <p  style="font-size:5px; text-align:left">
 <i>Icons by <a href="https://github.com/jalbertsr/logo-badge-images">Joan Albert</a></i>
 </p>
+
+
 ## The app  :iphone:
 
 [Deploy]()
