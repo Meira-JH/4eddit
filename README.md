@@ -84,7 +84,7 @@ A social network.
 On your terminal, type:
 
 ```
-git clone 
+git clone https://github.com/Meira-JH/4eddit
 ```
 
 Install dependencies:
