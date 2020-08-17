@@ -51,7 +51,7 @@ A social network.
 
 [Web Deploy](https://four-eddit.web.app/)
 
-[API Documentation](https://documenter.getpostman.com/view/674905/SzYXXKEE?version=latest#08adf102-4d87-4f70-9dc3-b3c321b29739)
+[API Documentation](https://documenter.getpostman.com/view/7549981/SW7T9XRj?version=latest)
 
 ### Login page
 
